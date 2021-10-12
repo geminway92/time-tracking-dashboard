@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;500&display=swap');
+
+
+:root {
+    --bg-card: #1D204B;
+    --text-color-primary: #F8FCFF;
+    --text-color-subtitle: #9597C6;
+    --text-color-bar: #9597C6;
+}
+
+
+body {
+    margin: 0;
+    background-color: #0D1323;
+    width: 100vw;
+    height: 100vh;
+}
