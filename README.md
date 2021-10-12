@@ -1,22 +1,4 @@
 # time-tracking-dashboard-main
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-
-
-//TODO: No olvidar hacer el hover
+Project made from the FrontedMentor design.
+In this case I used the Vue2 Framework. 

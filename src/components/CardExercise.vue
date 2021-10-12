@@ -9,7 +9,6 @@
               <h2>{{currentExercise}}hrs</h2>
             </div>
             <div class="work-right">
-              <img src="../assets/images/icon-ellipsis.svg" alt="" class="ellipsis">
               <h3 class="frecuency">Last {{lastFrecuency}} - {{previousExercise}}hrs</h3>
             </div>
 
@@ -139,17 +138,6 @@ export default {
 
     }
     
-    .ellipsis {
-        width: 100%;
-        object-fit: scale-down;
-        position: absolute;
-        right: 15em;
-    }
 
-    .ellipsis:hover {
-        cursor: pointer;
-        object-fit: initial;
-    }
-    
 }
 </style>

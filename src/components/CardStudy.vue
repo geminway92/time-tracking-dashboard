@@ -9,7 +9,6 @@
               <h2>{{currentStudy}}hrs</h2>
             </div>
             <div class="work-right">
-              <img src="../assets/images/icon-ellipsis.svg" alt="" class="ellipsis">
               <h3 class="frecuency">Last {{lastFrecuency}} - {{previousStudy}}hrs</h3>
             </div>
 

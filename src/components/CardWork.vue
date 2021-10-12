@@ -9,7 +9,6 @@
               <h2>{{currentWork}}hrs</h2>
             </div>
             <div class="work-right">
-              <img src="../assets/images/icon-ellipsis.svg" alt="" class="ellipsis">
               <h3 class="frecuency" >Last {{lastFrecuency}} - {{previousWork}}hrs</h3>
             </div>
 
@@ -68,6 +67,7 @@ export default {
     justify-content: space-between;
 }
 
+
 .work-left {
     flex-direction: column;
     margin: 1em;
@@ -104,6 +104,7 @@ export default {
 .work-right img {
     width: 15%;
 }
+
 
 @media screen and (min-width: 700px) and (orientation: landscape) {
 
